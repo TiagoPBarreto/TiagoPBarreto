@@ -7,7 +7,9 @@
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPBarreto&show_icons=true&theme=dracula)
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPBarreto&theme=blue-green)
 
-### Tecnologias que trabalho atualmente!!!
+### Tecnologias com as quais estudo e trabalho atualmente!!!
+
+### Technologies I currently study and work with!!!
 
 <div style="display:inline_block"><br/>
     <img aling="center" alt= "JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
