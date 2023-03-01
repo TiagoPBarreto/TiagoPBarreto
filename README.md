@@ -2,7 +2,7 @@
 ### Oi! Eu sou Tiago Barreto 🖐️
 ### Hi! I'm Tiago Barretto 🖐️
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-barreto-237734207/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-pbarreto)
 
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPBarreto&show_icons=true&theme=dracula)
